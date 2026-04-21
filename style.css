@@ -4,7 +4,7 @@
     src: url(BoutiqueBitmap9x9_Bold_1.92.ttf);
 }
 .title {
-    width: 100vw;
+    width: 100%;
     text-align: center;
 }
 .game-board {
